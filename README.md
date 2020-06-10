@@ -1,0 +1,1 @@
+We are given 4 Datasets. The tables contain data on vehicles, rental stations, bookings, and tariff categories of Car Sharing business named Deutsche Bahn in Germany. The tables need to be cleaned with minimal loss of data,  following with questions about Rental car stations and factors affecting utilization of a given vehicle.
